@@ -1,0 +1,13 @@
+langchain
+streamlit
+chromadb
+pandasai
+tiktoken
+crewai
+plantuml
+diagrams
+matplotlib
+pandas
+requests
+newspaper4k
+gnews
